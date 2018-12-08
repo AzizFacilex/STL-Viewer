@@ -1,0 +1,6 @@
+C:\Users\aziz\Desktop\Programm\StlViewer\StlReader\bin\Debug\StlReader.dll
+C:\Users\aziz\Desktop\Programm\StlViewer\StlReader\bin\Debug\StlReader.pdb
+C:\Users\aziz\Desktop\Programm\StlViewer\StlReader\obj\Debug\StlReader.csprojAssemblyReference.cache
+C:\Users\aziz\Desktop\Programm\StlViewer\StlReader\obj\Debug\StlReader.csproj.CoreCompileInputs.cache
+C:\Users\aziz\Desktop\Programm\StlViewer\StlReader\obj\Debug\StlReader.dll
+C:\Users\aziz\Desktop\Programm\StlViewer\StlReader\obj\Debug\StlReader.pdb

@@ -1,0 +1,9 @@
+C:\Users\aziz\Desktop\Programm\StlViewer\StlViewer\obj\Debug\StlViewer.csprojAssemblyReference.cache
+C:\Users\aziz\Desktop\Programm\StlViewer\StlViewer\obj\Debug\StlViewer.Entwicklerseite.resources
+C:\Users\aziz\Desktop\Programm\StlViewer\StlViewer\obj\Debug\StlViewer.Form1.resources
+C:\Users\aziz\Desktop\Programm\StlViewer\StlViewer\obj\Debug\StlViewer.Objekt.resources
+C:\Users\aziz\Desktop\Programm\StlViewer\StlViewer\obj\Debug\StlViewer.Hilfe.resources
+C:\Users\aziz\Desktop\Programm\StlViewer\StlViewer\obj\Debug\StlViewer.Properties.Resources.resources
+C:\Users\aziz\Desktop\Programm\StlViewer\StlViewer\obj\Debug\StlViewer.startseite.resources
+C:\Users\aziz\Desktop\Programm\StlViewer\StlViewer\obj\Debug\StlViewer.csproj.GenerateResource.cache
+C:\Users\aziz\Desktop\Programm\StlViewer\StlViewer\obj\Debug\StlViewer.csproj.CoreCompileInputs.cache
